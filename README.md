@@ -1,6 +1,7 @@
 weather is a CLI tool for [chubin/wttr.in](https://github.com/chubin/wttr.in).
 
 Installation is a easy as
+
     go get github.com/crossi36/weather
 
 ## Usage
