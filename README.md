@@ -98,7 +98,7 @@ weather can also be used to get the current moon phase
                                 .    .-'	 
                             .      .--'	 
                         -------'
-or for a specific date
+or the moon phase for a specific date (YYYY-MM-DD)
 
     $ weather moon@2017-09-06
                     .------------.	 
